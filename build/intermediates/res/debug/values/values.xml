@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/E:/Projekte/Android/OpenFetch/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/E:/Projekte/Android/OpenFetch/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_scan">SCAN</string>
+    <string name="app_credits">© 2013 by Deniz Kökden</string>
+    <string name="app_description">Open Source Project on getting HTC Fetch to work at every Smartphone</string>
+    <string name="app_name">OpenFetch</string>
+    <string name="ble_not_supported">BLE not supported on this device</string>
+    <string name="bt_unavailable">Bluetooth unavailable</string>
+    <string name="find_keys_loud">Find my Keys!</string>
+    <string name="find_keys_silent">Find my Keys (silent)</string>
+    <string name="find_keys_stop">Stop! found them.</string>
+    <string name="menu_about">About</string>
+    <string name="menu_exit">Exit</string>
+    <!-- From: file:/E:/Projekte/Android/OpenFetch/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light"> <!-- API 14 theme customizations can go here. -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme"> <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

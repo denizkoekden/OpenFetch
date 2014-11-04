@@ -5,7 +5,6 @@
     <string name="bt_unavailable">Bluetooth unavailable</string>
     <!-- Scan -->
     <string name="action_scan">SCAN</string>
-    <string name="action_stop">STOP</string>
     <!-- Device -->
     <string name="find_keys_loud">Find my Keys!</string>
     <string name="find_keys_silent">Find my Keys (silent)</string>

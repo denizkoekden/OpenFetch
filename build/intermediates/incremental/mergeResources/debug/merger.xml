@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="E:\Projekte\Android\OpenFetch\res" >
+            <file
+                name="ic_action_refresh"
+                path="E:\Projekte\Android\OpenFetch\res\drawable-hdpi\ic_action_refresh.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\Projekte\Android\OpenFetch\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="E:\Projekte\Android\OpenFetch\res\drawable-mdpi\ic_action_refresh.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\Projekte\Android\OpenFetch\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="E:\Projekte\Android\OpenFetch\res\drawable-xhdpi\ic_action_refresh.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\Projekte\Android\OpenFetch\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="E:\Projekte\Android\OpenFetch\res\drawable-xxhdpi\ic_action_refresh.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\Projekte\Android\OpenFetch\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="about"
+                path="E:\Projekte\Android\OpenFetch\res\layout\about.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="actionbar_indeterminate_progress"
+                path="E:\Projekte\Android\OpenFetch\res\layout\actionbar_indeterminate_progress.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_device"
+                path="E:\Projekte\Android\OpenFetch\res\layout\activity_device.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_scan"
+                path="E:\Projekte\Android\OpenFetch\res\layout\activity_scan.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="listitem_device"
+                path="E:\Projekte\Android\OpenFetch\res\layout\listitem_device.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fetch"
+                path="E:\Projekte\Android\OpenFetch\res\menu\fetch.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="E:\Projekte\Android\OpenFetch\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="E:\Projekte\Android\OpenFetch\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="E:\Projekte\Android\OpenFetch\res\values\strings.xml"
+                qualifiers="" >
+                <string name="menu_exit" >Exit
+                </string>
+                <string name="app_description" >Open Source Project on getting HTC Fetch to work at every Smartphone
+                </string>
+                <string name="find_keys_loud" >Find my Keys!
+                </string>
+                <string name="ble_not_supported" >BLE not supported on this device
+                </string>
+                <string name="find_keys_stop" >Stop! found them.
+                </string>
+                <string name="menu_about" >About
+                </string>
+                <string name="app_name" >OpenFetch
+                </string>
+                <string name="find_keys_silent" >Find my Keys (silent)
+                </string>
+                <string name="app_credits" >© 2013 by Deniz Kökden
+                </string>
+                <string name="bt_unavailable" >Bluetooth unavailable
+                </string>
+                <string name="action_scan" >SCAN
+                </string>
+            </file>
+            <file
+                path="E:\Projekte\Android\OpenFetch\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+ <!-- API 14 theme customizations can go here. -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+ <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="E:\Projekte\Android\OpenFetch\build\generated\res\rs\debug" />
+        <source path="E:\Projekte\Android\OpenFetch\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="E:\Projekte\Android\OpenFetch\build-types\debug\res" />
+    </dataSet>
+
+</merger>
