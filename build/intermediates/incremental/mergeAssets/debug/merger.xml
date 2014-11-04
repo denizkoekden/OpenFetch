@@ -2,10 +2,10 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="R:\Android_Eclipse\OpenFetch\assets" />
+        <source path="E:\Projekte\Android\OpenFetch\assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="R:\Android_Eclipse\OpenFetch\build-types\debug\assets" />
+        <source path="E:\Projekte\Android\OpenFetch\build-types\debug\assets" />
     </dataSet>
 
 </merger>

@@ -10,4 +10,4 @@
         android:showAsAction="always"
         android:title="@string/menu_exit"
         android:visible="false"/>
-</menu><!-- From: file:/R:/Android_Eclipse/OpenFetch/res/menu/fetch.xml -->
+</menu><!-- From: file:/E:/Projekte/Android/OpenFetch/res/menu/fetch.xml -->

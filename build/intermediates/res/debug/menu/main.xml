@@ -3,11 +3,6 @@
         android:id="@+id/action_scan"
         android:orderInCategory="100"
         android:showAsAction="always"
+        android:icon="@drawable/ic_action_refresh"
         android:title="@string/action_scan"/>
-    <item
-        android:id="@+id/action_stop"
-        android:orderInCategory="100"
-        android:showAsAction="always"
-        android:title="@string/action_stop"
-        android:visible="false"/>
-</menu><!-- From: file:/R:/Android_Eclipse/OpenFetch/res/menu/main.xml -->
+</menu><!-- From: file:/E:/Projekte/Android/OpenFetch/res/menu/main.xml -->

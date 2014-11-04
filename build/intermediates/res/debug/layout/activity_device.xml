@@ -32,4 +32,4 @@
         android:layout_below="@+id/loud_keyfinder_button"
         android:text="@string/find_keys_stop" />
 
-</RelativeLayout><!-- From: file:/R:/Android_Eclipse/OpenFetch/res/layout/activity_device.xml -->
+</RelativeLayout><!-- From: file:/E:/Projekte/Android/OpenFetch/res/layout/activity_device.xml -->

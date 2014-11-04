@@ -2,9 +2,9 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="R:\Android_Eclipse\OpenFetch\src\androidTest\res" />
-        <source path="R:\Android_Eclipse\OpenFetch\build\generated\res\rs\test\debug" />
-        <source path="R:\Android_Eclipse\OpenFetch\build\generated\res\generated\test\debug" />
+        <source path="E:\Projekte\Android\OpenFetch\src\androidTest\res" />
+        <source path="E:\Projekte\Android\OpenFetch\build\generated\res\rs\test\debug" />
+        <source path="E:\Projekte\Android\OpenFetch\build\generated\res\generated\test\debug" />
     </dataSet>
 
 </merger>

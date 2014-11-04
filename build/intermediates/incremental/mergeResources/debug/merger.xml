@@ -2,44 +2,84 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="R:\Android_Eclipse\OpenFetch\res" >
+        <source path="E:\Projekte\Android\OpenFetch\res" >
             <file
-                name="ic_launcher"
-                path="R:\Android_Eclipse\OpenFetch\res\drawable-xhdpi\ic_launcher.png"
-                qualifiers="xhdpi-v4"
-                type="drawable" />
-            <file
-                name="ic_launcher"
-                path="R:\Android_Eclipse\OpenFetch\res\drawable-hdpi\ic_launcher.png"
+                name="ic_action_refresh"
+                path="E:\Projekte\Android\OpenFetch\res\drawable-hdpi\ic_action_refresh.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="R:\Android_Eclipse\OpenFetch\res\drawable-mdpi\ic_launcher.png"
+                path="E:\Projekte\Android\OpenFetch\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="E:\Projekte\Android\OpenFetch\res\drawable-mdpi\ic_action_refresh.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
+                name="ic_launcher"
+                path="E:\Projekte\Android\OpenFetch\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="E:\Projekte\Android\OpenFetch\res\drawable-xhdpi\ic_action_refresh.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\Projekte\Android\OpenFetch\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="E:\Projekte\Android\OpenFetch\res\drawable-xxhdpi\ic_action_refresh.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\Projekte\Android\OpenFetch\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
                 name="about"
-                path="R:\Android_Eclipse\OpenFetch\res\layout\about.xml"
+                path="E:\Projekte\Android\OpenFetch\res\layout\about.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="actionbar_indeterminate_progress"
+                path="E:\Projekte\Android\OpenFetch\res\layout\actionbar_indeterminate_progress.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_device"
-                path="R:\Android_Eclipse\OpenFetch\res\layout\activity_device.xml"
+                path="E:\Projekte\Android\OpenFetch\res\layout\activity_device.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_scan"
-                path="R:\Android_Eclipse\OpenFetch\res\layout\activity_scan.xml"
+                path="E:\Projekte\Android\OpenFetch\res\layout\activity_scan.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="listitem_device"
-                path="R:\Android_Eclipse\OpenFetch\res\layout\listitem_device.xml"
+                path="E:\Projekte\Android\OpenFetch\res\layout\listitem_device.xml"
                 qualifiers=""
                 type="layout" />
             <file
-                path="R:\Android_Eclipse\OpenFetch\res\values\dimens.xml"
+                name="fetch"
+                path="E:\Projekte\Android\OpenFetch\res\menu\fetch.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="E:\Projekte\Android\OpenFetch\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="E:\Projekte\Android\OpenFetch\res\values\dimens.xml"
                 qualifiers="" >
                 <dimen name="activity_horizontal_margin" >16dp
                 </dimen>
@@ -47,15 +87,13 @@
                 </dimen>
             </file>
             <file
-                path="R:\Android_Eclipse\OpenFetch\res\values\strings.xml"
+                path="E:\Projekte\Android\OpenFetch\res\values\strings.xml"
                 qualifiers="" >
                 <string name="menu_exit" >Exit
                 </string>
                 <string name="app_description" >Open Source Project on getting HTC Fetch to work at every Smartphone
                 </string>
                 <string name="find_keys_loud" >Find my Keys!
-                </string>
-                <string name="action_stop" >STOP
                 </string>
                 <string name="ble_not_supported" >BLE not supported on this device
                 </string>
@@ -75,7 +113,7 @@
                 </string>
             </file>
             <file
-                path="R:\Android_Eclipse\OpenFetch\res\values\styles.xml"
+                path="E:\Projekte\Android\OpenFetch\res\values\styles.xml"
                 qualifiers="" >
 
                 <style
@@ -90,27 +128,12 @@
  <!-- All customizations that are NOT specific to a particular API-level can go here. -->
                 </style>
             </file>
-            <file
-                name="ic_launcher"
-                path="R:\Android_Eclipse\OpenFetch\res\drawable-xxhdpi\ic_launcher.png"
-                qualifiers="xxhdpi-v4"
-                type="drawable" />
-            <file
-                name="fetch"
-                path="R:\Android_Eclipse\OpenFetch\res\menu\fetch.xml"
-                qualifiers=""
-                type="menu" />
-            <file
-                name="main"
-                path="R:\Android_Eclipse\OpenFetch\res\menu\main.xml"
-                qualifiers=""
-                type="menu" />
         </source>
-        <source path="R:\Android_Eclipse\OpenFetch\build\generated\res\rs\debug" />
-        <source path="R:\Android_Eclipse\OpenFetch\build\generated\res\generated\debug" />
+        <source path="E:\Projekte\Android\OpenFetch\build\generated\res\rs\debug" />
+        <source path="E:\Projekte\Android\OpenFetch\build\generated\res\generated\debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="R:\Android_Eclipse\OpenFetch\build-types\debug\res" />
+        <source path="E:\Projekte\Android\OpenFetch\build-types\debug\res" />
     </dataSet>
 
 </merger>
