@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="R:\Android_Eclipse\OpenFetch\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="R:\Android_Eclipse\OpenFetch\build-types\debug\assets" />
+    </dataSet>
+
+</merger>
